@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DND SpellCaster</string>
+
+    <string name="name_1">Szał</string>
+    <string name="name_2">Kula Ognista</string>
+    <string name="name_3">Płonące Dłonie</string>
+    <string name="name_4">Promień Mrozu</string>
+    <string name="name_5">Leczący Dotyk</string>
+    <string name="name_6">Błyskawica</string>
+    <string name="name_7">Otwarcie</string>
+    <string name="name_8">Pajęcza Sieć</string>
+    <string name="name_9">Kamienna Skóra</string>
+    <string name="name_0">Siła</string>
+
+    <string name="info_1">Poziom: 2 \nKomponenty: W,S \nCzas: akcja standartowa \nZasieg: 30m + 3m na poziom \nCele: Jedna istota \nCzas działania: Koncentracja + 1runda/poziom</string>
+    <string name="info_2">Poziom: 3 \nKomponenty: W,S,M \nCzas: akcja standartowa \nZasieg: 120m + 12m na poziom \nCele: Obszar o promieniu 6m \nCzas działania: Natychmiastowy</string>
+    <string name="info_3">Poziom: 1 \nKomponenty: W,S \nCzas: akcja standartowa \nZasieg: 4,5m \nCele: Obszar stożka \nCzas działania: Natychmiastowy</string>
+    <string name="info_4">Poziom: 0 \nKomponenty: W,S \nCzas: akcja standartowa \nZasieg: 7,5m + 1m na poziom \nCele: Jedna istota \nCzas działania: Natychmiastowy</string>
+    <string name="info_5">Poziom: 1 \nKomponenty: W,S \nCzas: akcja standartowa \nZasieg: Dotyk \nCele: Jedna istota \nCzas działania: Natychmiastowy</string>
+    <string name="info_6">Poziom: 4 \nKomponenty: W,S,M \nCzas: akcja standartowa \nZasieg: 36m \nCele: 36m linia \nCzas działania: Natychmiastowy</string>
+    <string name="info_7">Poziom: 2 \nKomponenty: W \nCzas: akcja całorundowa \nZasieg: 30m + 3m na poziom \nCele: Drzwi, Skrzynie, Kłódki \nCzas działania: 10min</string>
+    <string name="info_8">Poziom: 1 \nKomponenty: W,S \nCzas: akcja standartowa \nZasieg: 120m + 12m na poziom \nCele: Obszar o promieniu 3m \nCzas działania: 1min na poziom</string>
+    <string name="info_9">Poziom: 4 \nKomponenty: W,S,M \nCzas: akcja standartowa \nZasieg: Dotyk \nCele: Jedna istota \nCzas działania: 10min na poziom</string>
+    <string name="info_0">Poziom: 2 \nKomponenty: W,S,M \nCzas: akcja standartowa \nZasieg: Dotyk \nCele: Jedna istota \nCzas działania: 1min na poziom</string>
+
+    <string name="Sname">Nazwa:</string>
+    <string name="Slvl">LVL:</string>
+    <string name="Sinfo">Informacje:</string>
+    <string name="Sstat">Statystyki:</string>
+    <string name="Ssstat">Czas rzucania:</string>
+
+</resources>

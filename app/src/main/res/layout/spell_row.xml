@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="80dp">
+
+    <ImageView
+        android:id="@+id/spell_image"
+        android:layout_alignParentLeft="true"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/spell_name"
+        android:layout_toRightOf="@+id/spell_image"
+        android:layout_toLeftOf="@+id/spell_lvl"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:id="@+id/spell_lvl"
+        android:layout_width="80dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:id="@+id/spell_stat"
+        android:layout_below="@+id/spell_name"
+        android:layout_toRightOf="@+id/spell_image"
+        android:gravity="center_vertical"
+        android:paddingLeft="8dp"
+        android:layout_alignParentEnd="true"/>
+
+</RelativeLayout>
